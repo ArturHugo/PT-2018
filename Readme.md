@@ -1,0 +1,1 @@
+# Esse diretorio sera utilizado para guardar dados sobre git e github
